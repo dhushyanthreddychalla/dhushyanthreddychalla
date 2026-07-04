@@ -59,12 +59,4 @@ A full-stack task management app with authentication, CRUD operations, and AI-po
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhushyanthreddychalla&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
----
-
 <p align="center">💬 Let's connect and build something great together!</p>
