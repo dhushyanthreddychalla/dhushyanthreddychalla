@@ -57,6 +57,8 @@ A complete shopping application featuring electronics and fashion products, buil
 **📋 [Task Management App](https://github.com/dhushyanthreddychalla/task-management-app)**
 A full-stack task management app with authentication, CRUD operations, and AI-powered features.
 
+📊 **[Retail Analytics Dashboard](https://github.com/dhushyanthreddychalla/Online-Retail)** — An interactive RFM customer segmentation dashboard analyzing 541K+ e-commerce transactions, built with JavaScript and Chart.js.
+
 ---
 
 <p align="center">💬 Let's connect and build something great together!</p>
