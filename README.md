@@ -59,6 +59,8 @@ A full-stack task management app with authentication, CRUD operations, and AI-po
 
 📊 **[Retail Analytics Dashboard](https://github.com/dhushyanthreddychalla/Online-Retail)** — An interactive RFM customer segmentation dashboard analyzing 541K+ e-commerce transactions, built with JavaScript and Chart.js.
 
+🎙️ [AI Voice-to-Code Assistant](https://github.com/dhushyanthreddychalla/AI-voice-to-code-) — A Next.js app that converts spoken instructions into code across 7 languages using the Gemini API, with a glassmorphism UI and offline sandbox fallback.
+
 ---
 
 <p align="center">💬 Let's connect and build something great together!</p>
